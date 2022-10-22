@@ -64,6 +64,14 @@
     "creator_github_handle": "abd3"
   },
   {
+    "project_uid": "en_ms_translation_davis_vinaya",
+    "name": "English translation by Andrew Davis under the guidance of Dr Joongpyo Lee",
+    "root_path": "root/pli/ms/vinaya",
+    "translation_path": "translation/en/davis/vinaya",
+    "translation_muids": "translation-en-davis-vinaya",
+    "creator_github_handle": "abd3"
+  },
+  {
     "project_uid": "en_ms_translation_kovilo",
     "name": "English translation Kovilo Bhikkhu",
     "root_path": "root/pli/ms/sutta",

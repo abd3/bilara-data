@@ -2904,5 +2904,41 @@
         "edition_url": "ttps://suttacentral.net/sn"
       }
     ]
+  },
+  "scpub76.1": {
+    "parent_publication": "scpub76",
+    "publication_number": "scpub76.1",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/davis/vinaya/pli-tv-kd",
+    "author_uid": "davis",
+    "author_name": "Andrew Davis",
+    "author_github_handle": "abd3",
+    "division": "bu-vi",
+    "text_uid": "pli-tv-kd",
+    "translation_title": "The chapters on legal procedures and miscellaneous matters",
+    "translation_subtitle": "A translation of the Mahavagga of the Pali Khandhakas into English",
+    "root_title": "Khandhaka",
+    "translation_process": "Adapted from Bhikkhu Brahmali's translation. Language was adjusted under the guidance of Dr. Joongpyo Lee.",
+    "translation_description": "This is an adaptation of Bhikkhu Brahmali's translation, using language consistent with the English Sutta translations of Dr. Joongpyo Lee.",
+    "is_published": false,
+    "publication_status": "In progress.",
+    "license": {
+      "license_type": "Creative Commons Zero",
+      "license_abbreviation": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community."
+    },
+    "edition": [
+      {
+        "edition_number": "1",
+        "publication_date": "",
+        "publisher": "SuttaCentral",
+        "publication_type": "website",
+        "edition_url": "https://suttacentral.net/pli-tv-kd"
+      }
+    ]
   }
 }

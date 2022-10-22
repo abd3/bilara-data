@@ -663,8 +663,18 @@
     "translation_lang_iso": false,
     "translation_lang_name": false,
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/root/pli/dpcv/pli-tv-kd",
-    "creator_uid": ["weerakoon","medagoda","sujato","allon"],
-    "creator_name": ["Deepika Weerakoon", "Roshini Medagoda", "Bhikkhu Sujato", "Mark Allon"],
+    "creator_uid": [
+      "weerakoon",
+      "medagoda",
+      "sujato",
+      "allon"
+    ],
+    "creator_name": [
+      "Deepika Weerakoon",
+      "Roshini Medagoda",
+      "Bhikkhu Sujato",
+      "Mark Allon"
+    ],
     "creator_github_handle": "sujato",
     "text_uid": "dpcv",
     "translation_title": "The Small Division, sponsored by King Parakkamabāhu the Second",
@@ -690,8 +700,14 @@
     "translation_lang_iso": false,
     "translation_lang_name": false,
     "source_url": "https://github.com/suttacentral/bilara-data/tree/published/root/pli/bj/pli-tv-kd",
-    "creator_uid": ["weerakoon","medagoda"],
-    "creator_name": ["Deepika Weerakoon", "Roshini Medagoda"],
+    "creator_uid": [
+      "weerakoon",
+      "medagoda"
+    ],
+    "creator_name": [
+      "Deepika Weerakoon",
+      "Roshini Medagoda"
+    ],
     "creator_github_handle": "sujato",
     "text_uid": "bj",
     "translation_title": "Buddha Jayanti Tipiṭaka",
@@ -2086,6 +2102,33 @@
     "license_abbreviation": "CC0",
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "license_statement": "",
+    "first_published": "",
+    "editions_url": ""
+  },
+  {
+    "parent_publication": "scpub76",
+    "publication_number": "scpub76.1",
+    "root_lang_iso": "pli",
+    "root_lang_name": "Pali",
+    "translation_lang_iso": "en",
+    "translation_lang_name": "English",
+    "source_url": "https://github.com/suttacentral/bilara-data/tree/published/translation/en/davis/vinaya/pli-tv-kd",
+    "creator_uid": "davis",
+    "creator_name": "Andrew Davis",
+    "creator_github_handle": "abd3",
+    "division": "bu-vi",
+    "text_uid": "pli-tv-kd",
+    "translation_title": "The chapters on legal procedures and miscellaneous matters",
+    "translation_subtitle": "A translation of the Mahavagga of the Pali Khandhakas into English",
+    "root_title": "Khandhaka",
+    "creation_process": "Adapted from Bhikkhu Brahmali's translation. Language was adjusted under the guidance of Dr. Joongpyo Lee.",
+    "text_description": "This is an adaptation of Bhikkhu Brahmali's translation, using language consistent with the English Sutta translations of Dr. Joongpyo Lee.",
+    "is_published": false,
+    "publication_status": "In progress.",
+    "license_type": "Creative Commons Zero",
+    "license_abbreviation": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "license_statement": "This translation is an expression of an ancient spiritual text that has been passed down by the Buddhist tradition for the benefit of all sentient beings. It is dedicated to the public domain via Creative Commons Zero (CC0). You are encouraged to copy, reproduce, adapt, alter, or otherwise make use of this translation. The translator respectfully requests that any use be in accordance with the values and principles of the Buddhist community.",
     "first_published": "",
     "editions_url": ""
   }
